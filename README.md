@@ -17,25 +17,25 @@ systems, and intelligent applications.
 
 ## Selected Work
 
-### 🏠 [HomeValue-AI][https://github.com/saidattaputta/HomeValue-AI]
+### 🏠 [HomeValue-AI](https://github.com/saidattaputta/HomeValue-AI)
 End-to-end residential price prediction system using property and
 location features, with model comparison, explainability, and deployment.
 
 **Tech:** Python · Scikit-learn · SHAP · FastAPI · Streamlit
 
-### ✍️ [WriteWise-AI][https://github.com/saidattaputta/WriteWise-AI]
+### ✍️ [WriteWise-AI](https://github.com/saidattaputta/WriteWise-AI)
 Full-stack AI writing assistant for generating tailored professional
 documents using an LLM-powered backend.
 
 **Tech:** React · FastAPI · Google Gemini · PostgreSQL · JWT
 
-### 📉 [Systemic Financial Risk Monitoring & Forecasting][https://github.com/saidattaputta/Fintech-System-Level-Risk-Monitoring-Forecasting-Framework]
+### 📉 [Systemic Financial Risk Monitoring & Forecasting](https://github.com/saidattaputta/Fintech-System-Level-Risk-Monitoring-Forecasting-Framework)
 Framework for monitoring and forecasting systemic financial risk,
 including risk propagation and financial-system indicators.
 
 **Tech:** Python · Statistical Modeling · Time Series · Financial Analysis
 
-### 📊 [Amazon Revenue Decision Intelligence][https://github.com/saidattaputta/Amazon_Revenue_Decision_Intelligence]
+### 📊 [Amazon Revenue Decision Intelligence](https://github.com/saidattaputta/Amazon_Revenue_Decision_Intelligence)
 Data-driven analysis focused on revenue performance, business drivers,
 and decision-oriented insights.
 
