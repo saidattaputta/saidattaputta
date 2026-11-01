@@ -32,12 +32,8 @@ Research and backtest quantitative alpha signals using statistical methods and t
 **National Institute of Technology Warangal**  
 Integrated M.Sc. Mathematics · 2022–2027
 
-## Links
-
-- [LinkedIn](https://www.linkedin.com/in/sai-datta-putta/)
-- [Portfolio](https://sites.google.com/view/sai-datta-putta)
-- [GitHub](https://github.com/saidattaputta)
-
 ---
 
-*This profile highlights selected projects. See the repositories for project-specific methodology, setup instructions, results, and limitations.*
+**Sai Datta Putta**
+
+[LinkedIn](https://www.linkedin.com/in/sai-datta-putta/)
