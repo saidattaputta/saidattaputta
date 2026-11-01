@@ -1,61 +1,43 @@
-# Hi, I'm Sai Datta Putta 👋
+# Sai Datta Putta
 
-I'm an Integrated M.Sc. Mathematics student at NIT Warangal interested in
-Data Science, Machine Learning, Quantitative Research, and Risk Analytics.
+Integrated M.Sc. Mathematics student at **NIT Warangal** focused on data science, applied machine learning, analytics, and quantitative research.
 
-My work focuses on applying mathematical, statistical, and computational
-methods to problems involving structured data, forecasting, financial
-systems, and intelligent applications.
+I build projects that connect statistical reasoning and programming with practical business or financial questions. My repositories include analytical case studies, predictive models, data products, and AI applications.
 
-## What I Work On
+## Focus Areas
 
-- 📊 Data Science & Statistical Modeling
-- 🤖 Machine Learning & Explainable AI
-- 📈 Quantitative Research & Financial Modeling
-- ⚠️ Risk Analytics & Forecasting
-- 🧠 Generative AI & LLM Applications
+- **Data Science & Analytics:** exploratory analysis, statistical testing, SQL, forecasting, and business insights
+- **Machine Learning:** supervised learning, feature engineering, model evaluation, and explainability
+- **AI Applications:** LLM integration, retrieval-augmented generation, and full-stack AI systems
+- **Quantitative & Risk Research:** time-series analysis, signal research, and financial risk measurement
 
-## Selected Work
+## Selected Projects
 
-### 🏠 [HomeValue-AI](https://github.com/saidattaputta/HomeValue-AI)
-End-to-end residential price prediction system using property and
-location features, with model comparison, explainability, and deployment.
+| Project | Description | Tools |
+|---|---|---|
+| [InsightRAG](https://github.com/saidattaputta/InsightRAG) | PDF question-answering application with semantic retrieval and evidence citations | Python, Streamlit, Sentence Transformers, FAISS, Gemini |
+| [Customer Churn Prediction & Retention Analytics](https://github.com/saidattaputta/Customer-Churn-Prediction-Retention-Analytics) | Churn classification, experiment tracking, explainability, API, and interactive app | Python, scikit-learn, MLflow, SHAP, FastAPI |
+| [HomeValue-AI](https://github.com/saidattaputta/HomeValue-AI) | Residential price prediction workflow with model evaluation, SHAP, API, and app | Python, scikit-learn, SHAP, FastAPI, Streamlit |
+| [WriteWise-AI](https://github.com/saidattaputta/WriteWise-AI) | Full-stack professional writing assistant with authentication and persistence | React, TypeScript, FastAPI, PostgreSQL, Gemini |
+| [System-Level Financial Risk Monitoring](https://github.com/saidattaputta/Fintech-System-Level-Risk-Monitoring-Forecasting-Framework) | PaySim-based transaction validation, exposure features, and step-level risk analysis | Python, pandas, scikit-learn |
+| [Amazon Revenue Decision Intelligence](https://github.com/saidattaputta/Amazon_Revenue_Decision_Intelligence) | Revenue concentration, leakage, and what-if scenario analysis | Python, pandas, Jupyter |
 
-**Tech:** Python · Scikit-learn · SHAP · FastAPI · Streamlit
+## Experience
 
-### ✍️ [WriteWise-AI](https://github.com/saidattaputta/WriteWise-AI)
-Full-stack AI writing assistant for generating tailored professional
-documents using an LLM-powered backend.
-
-**Tech:** React · FastAPI · Google Gemini · PostgreSQL · JWT
-
-### 📉 [Systemic Financial Risk Monitoring & Forecasting](https://github.com/saidattaputta/Fintech-System-Level-Risk-Monitoring-Forecasting-Framework)
-Framework for monitoring and forecasting systemic financial risk,
-including risk propagation and financial-system indicators.
-
-**Tech:** Python · Statistical Modeling · Time Series · Financial Analysis
-
-### 📊 [Amazon Revenue Decision Intelligence](https://github.com/saidattaputta/Amazon_Revenue_Decision_Intelligence)
-Data-driven analysis focused on revenue performance, business drivers,
-and decision-oriented insights.
-
-## Quantitative Research
-
-At WorldQuant, I work as a Quantitative Research Consultant, researching
-and backtesting systematic alpha signals across global financial markets.
+**Quantitative Research Consultant — WorldQuant BRAIN**  
+Research and backtest quantitative alpha signals using statistical methods and time-series operations.
 
 ## Education
 
-**National Institute of Technology Warangal**
-
+**National Institute of Technology Warangal**  
 Integrated M.Sc. Mathematics · 2022–2027
 
-## Currently Exploring
+## Links
 
-Machine Learning · Statistical Modeling · Forecasting · Risk Analytics ·
-Quantitative Research · Generative AI
+- [LinkedIn](https://www.linkedin.com/in/sai-datta-putta/)
+- [Portfolio](https://sites.google.com/view/sai-datta-putta)
+- [GitHub](https://github.com/saidattaputta)
 
-## Connect
+---
 
-[LinkedIn](https://linkedin.com/in/sai-datta-putta) ·
-[LeetCode](https://leetcode.com/u/sai_datta_putta/)
+*This profile highlights selected projects. See the repositories for project-specific methodology, setup instructions, results, and limitations.*
